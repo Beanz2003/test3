@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Tri bu lz
+=======
+Tri occac
+>>>>>>> Stashed changes
